@@ -43,10 +43,10 @@ Solar power is energy from the sun that is converted into thermal or electrical 
 According to [Solor-Powered Data Centers](https://www.datacenterknowledge.com/solar-powered-data-centers), 
 solor power hasn't been widely used in data centers because a decent amount of energy required by data centers
 demands a very large installation of photovoltaic(PV). However, there are still some data centers that 
-successfully implements solar power. For example, <AISO.net> is a nature intended web hosting company. It claimed 
+successfully implements solar power. For example, AISO is a nature intended web hosting company. It claimed 
 that "Every hosting account with AISO is green and powered by on-site solar". Due to this philosophy, the company eliminate the production of 34488 lbs of co2 per year.
 
 *References*
 
-[Solor-Powered Data Centers](https://www.datacenterknowledge.com/solar-powered-data-centers/)
-<AISO.net>
+[Solor-Powered Data Centers](https://www.datacenterknowledge.com/solar-powered-data-centers/)  
+[AISO](https://www.aiso.net/)
