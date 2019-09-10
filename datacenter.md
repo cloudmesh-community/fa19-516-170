@@ -38,3 +38,15 @@ One of the most distinctive features of the facility is its cooling system, whic
 12343 LBS of CO2, 5834 LBS comes from home.
 
 ## E.Datacenter.4
+Solar power is energy from the sun that is converted into thermal or electrical energy. Solar energy is the cleanest and most abundant renewable energy source available, and the U.S. has some of the richest solar resources in the world. Solar technologies can harness this energy for a variety of uses, including generating electricity, providing light or a comfortable interior environment, and heating water for domestic, commercial, or industrial use.
+
+According to [Solor-Powered Data Centers](https://www.datacenterknowledge.com/solar-powered-data-centers), 
+solor power hasn't been widely used in data centers because a decent amount of energy required by data centers
+demands a very large installation of photovoltaic(PV). However, there are still some data centers that 
+successfully implements solar power. For example, <AISO.net> is a nature intended web hosting company. It claimed 
+that "Every hosting account with AISO is green and powered by on-site solar". Due to this philosophy, the company eliminate the production of 34488 lbs of co2 per year.
+
+*References*
+
+[Solor-Powered Data Centers](https://www.datacenterknowledge.com/solar-powered-data-centers/)
+<AISO.net>
