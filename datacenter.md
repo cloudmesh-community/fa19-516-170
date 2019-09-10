@@ -34,4 +34,7 @@ One of the most distinctive features of the facility is its cooling system, whic
 [World's Largest Data Center: 350 E. Cermak](https://www.datacenterknowledge.com/special-report-the-worlds-largest-data-centers/worlds-largest-data-center-350-e-cermak/)  
 [Chicago's Data Fortress for the Digital Economy](https://www.datacenterknowledge.com/archives/2009/01/06/chicagos-data-fortress-for-the-digital-economy)
 
+## E.Datacenter.3
+12343 LBS of CO2, 5834 LBS comes from home.
 
+## E.Datacenter.4
