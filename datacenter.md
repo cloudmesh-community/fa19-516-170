@@ -70,7 +70,7 @@ and big data services is improved by the smart use of renewable energy.
 ## E.Datacenter.8
 ### Disruption of Google Cloud Service
 
-####Incident
+#### Incident
 Google is one of the most widely-used and reliable service providers on the Internet. Once it experiences an outage, the consequences 
 can be far-reaching. In June 2nd, 2019, Google experienced an outage.
 
@@ -79,11 +79,11 @@ in network congestion. The congestion lasted for between 3 hours 19 minutes and 
 lives in eastern US were severely affected by the outage. Fortunately, most users who lives in western US and all the users in Europe and Asia 
 were not affected. During the congestion, Google services including computing engine, App engine, cloud platform were disrupted.
 
-####Impact
+#### Impact
 According to [incident report](https://cloud.google.com/blog/topics/inside-google-cloud/an-update-on-sundays-service-disruption) YouTube measured a 2.5% drop of views for one hour, while Google Cloud Storage measured a 30% reduction in traffic. 
 Approximately 1% of active Gmail users had problems with their account, which represents millions of users who couldn’t receive or send email.
 
-####Discussion
+#### Discussion
 After the Google Outage, many people pays more attention to cloud network reliability. At the time cloud services are disrupted, 
 people realizes these services have been an integral part of life, and the integral part of life relies on the ability of companies 
 who manage these services to operate. Thus, people claim for cloud service should include reater dynamic visibility, more accountability and a better cost recovery plan when problems occur.
