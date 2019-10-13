@@ -1,0 +1,58 @@
+openapi: 3.0.0
+info:
+  title: cpuinfo
+  description: A simple service to get cpuinfo as an example of using OpenAPI 3.0
+  license:
+    name: Apache 2.0
+  version: 0.0.1
+
+servers:
+  - url: http://localhost:8080/cloudmesh
+
+paths:
+  /cpu:
+    get:
+      summary: Returns cpu information of the hosting server
+      operationId: cpu.get_processor_name
+      responses:
+        '200':
+          description: cpu info
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/cpu"
+  /cpu_cache/{level}:
+    get:
+      summary: Returns cpu cache size of the hosting server
+      operationId: cpu.get_processor_cache
+      responses:
+        200:
+          description: cpu cache info
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/cpu_cache"
+      parameters:
+        - in: path
+          name: level
+          description: Level of cache to get
+          required: false
+          schema:
+            type: string
+
+components:
+  schemas:
+    cpu:
+      type: "object"
+      required:
+        - "model"
+      properties:
+        model:
+          type: "string"
+    cpu_cache:
+      type: "object"
+      required:
+        - "cache"
+      properties:
+        cache:
+          type: "string"
